@@ -1,11 +1,11 @@
 mainDb:
     username: axioma
     password: '{cipher}0ba1d2664bea7f8b8f1e2d50696a60f32e0586a9f808c8bfd0e9dbb1a624b877'
-	
+
 reportDb:
     username: axioma
     password: '{cipher}4ac60cb4d30bafb0fdb1ba73b7548deac37aa779aefeab9922043a989e5bd4f1'
-	
+
 ssrs:
     username: nmelanson
     password: '{cipher}f747b947e3db23038da3a6bdd0fa57d6034b3a5226f27beb859675be2e2ce96c'
